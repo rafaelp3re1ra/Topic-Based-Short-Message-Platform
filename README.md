@@ -49,7 +49,7 @@ The project was developed in C and addresses the following main components:
   - Contains the rules to compile the project.
 
 - **Report:**
-  - [`Relatório_de_SO.pdf`](Report.pdf): Details about the development, functionalities, and results obtained.
+  - [`Report.pdf`](Relatório_de_SO.pdf): Details about the development, functionalities, and results obtained.
 
 ## How to Compile and Run
 
